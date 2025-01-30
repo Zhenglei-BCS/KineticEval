@@ -1,6 +1,8 @@
 KineticEval - An R package for Kinetic Evaluations
 ===========
 
+*Note that this is not the current version used internally by KinGUII v2.1 in the modelling group. The most recent version need to go through all clearications to be published as a BayerGroup opensource repository*
+
 This package is developed based on the R package [`mkin`](https://github.com/jranke/mkin). It is used by the **KinGUII v2.1**, which is a successor of the first version of KinGUI. 
 
 The package is used to determine kinetic parameters from results of environmental fate studies, e.g. aerobic soil degradation, by fitting respective mathematical models to the observed data.
